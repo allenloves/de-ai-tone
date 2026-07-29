@@ -67,4 +67,5 @@ The guide itself is written in Traditional Chinese — the ruleset is the conten
 
 ---
 
-© 2026 Allen（allenloves）。保留所有權利。All rights reserved.
+© 2026 Allen（allenloves）。本作品以創用 CC 姓名標示—相同方式分享 4.0 國際（[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)）授權釋出。
+Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
