@@ -64,3 +64,7 @@ Claude Code triggers the skill from the description in `SKILL.md`; you can also 
 The rules come from real translation and writing work, including a complete English-to-Chinese translation of a sixteenth-century music treatise. Each entry follows the same pattern: a habit observed in the wild, a rule against it, and an executable test (deletion test, straw-man test) to decide borderline cases.
 
 The guide itself is written in Traditional Chinese — the ruleset is the content, and its own prose follows every rule it states.
+
+---
+
+© 2026 Allen（allenloves）。保留所有權利。All rights reserved.
