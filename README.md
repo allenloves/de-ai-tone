@@ -15,11 +15,11 @@ AI 生成的中文有一組可辨識的統計慣性：假對比、破折號濫�
 
 ### 規範涵蓋
 
-- **禁用與限用清單（第 1–10 條）**：「不是 X 而是 Y」假辯證、破折號、三項式排比、空轉話語標記、貼標語彙（賦能、打造、旨在）、結構強迫症（濫用列點、加粗、小標題）、開場與收場公式、修辭性設問、贅詞「一個」、框式介詞。
-- **翻譯專用（第 11–12 條）**：歐化句式的還原——關係子句拆句、「被」字句改寫、代名詞刪減，以及慣用直譯句型的替代方案。忠實優先於流暢：原文刻意的修辭不在清理之列。
-- **臺灣用語規範（第 13–15 條）**：支語過濾對照表，按資訊科技、互聯網黑話、音樂與音訊工程、數學科學、學術日常分組；表外詞彙的判斷原則；英文命名禁止無意義的拼音音譯。
-- **標點規範（第 16 條）**：中文行文一律全形，唯英文與英文之間的標點用半形。
-- **正向原則與自檢**：動詞驅動、短句節奏、具體優於抽象、信任讀者、有立場；產出前強制執行十項逐條掃描。
+- **禁用與限用清單（第 1–11 條）**：「不是 X 而是 Y」假辯證、破折號、冒號（帽句、擂鼓式宣告）、三項式排比、空轉話語標記、貼標語彙（賦能、打造、旨在）、結構強迫症（濫用列點、加粗、小標題）、開場與收場公式、修辭性設問、贅詞「一個」、框式介詞。
+- **翻譯專用（第 12–13 條）**：歐化句式的還原——關係子句拆句、「被」字句改寫、代名詞刪減，以及慣用直譯句型的替代方案。忠實優先於流暢：原文刻意的修辭不在清理之列。
+- **臺灣用語規範（第 14–16 條）**：支語過濾對照表，按資訊科技、互聯網黑話、音樂與音訊工程、數學科學、學術日常分組；表外詞彙的判斷原則；英文命名禁止無意義的拼音音譯。
+- **標點規範（第 17–18 條）**：中文行文一律全形，唯英文與英文之間的標點用半形；引號只留提及、術語首現、引文、篇章名四種本職。
+- **正向原則與自檢**：動詞驅動、短句節奏、具體優於抽象、信任讀者、有立場；產出前強制執行十一項逐條掃描。
 
 ### 安裝
 
@@ -45,11 +45,11 @@ Installed as a Claude Code skill, it applies automatically to any task that prod
 
 ### What it covers
 
-- **Bans and rations (rules 1–10)**: fake "not X but Y" dialectics, em-dashes, triadic parallelism, empty discourse markers, buzzword vocabulary, structural compulsions (bullet points, bold, headings), formulaic openings and closings, rhetorical self-questioning, article-calque "一個", frame prepositions calqued from English.
-- **Translation-specific (rules 11–12)**: undoing Europeanized syntax — splitting relative clauses, rewriting passive constructions, trimming pronouns — plus alternatives to stock calque patterns. Fidelity outranks fluency: deliberate rhetoric in the source is not cleaned up.
-- **Taiwan usage (rules 13–15)**: a filter table of PRC vocabulary versus Taiwan equivalents, grouped by field (IT, internet-industry jargon, music and audio engineering, mathematics, academic and daily life); judgment principles for words outside the table; a ban on meaningless pinyin transliteration when naming things in English.
-- **Punctuation (rule 16)**: full-width punctuation throughout Chinese text; half-width only between English and English.
-- **Positive principles and self-check**: verb-driven sentences, short-sentence rhythm, concrete over abstract, trusting the reader, taking a stance; ten mandatory scans before any text ships.
+- **Bans and rations (rules 1–11)**: fake "not X but Y" dialectics, em-dashes, colons (topic-label sentence openers, drumroll announcements), triadic parallelism, empty discourse markers, buzzword vocabulary, structural compulsions (bullet points, bold, headings), formulaic openings and closings, rhetorical self-questioning, article-calque "一個", frame prepositions calqued from English.
+- **Translation-specific (rules 12–13)**: undoing Europeanized syntax — splitting relative clauses, rewriting passive constructions, trimming pronouns — plus alternatives to stock calque patterns. Fidelity outranks fluency: deliberate rhetoric in the source is not cleaned up.
+- **Taiwan usage (rules 14–16)**: a filter table of PRC vocabulary versus Taiwan equivalents, grouped by field (IT, internet-industry jargon, music and audio engineering, mathematics, academic and daily life); judgment principles for words outside the table; a ban on meaningless pinyin transliteration when naming things in English.
+- **Punctuation (rules 17–18)**: full-width punctuation throughout Chinese text, half-width only between English and English; quotation marks restricted to their four real jobs — mention, first use of a term, direct quotation, titles.
+- **Positive principles and self-check**: verb-driven sentences, short-sentence rhythm, concrete over abstract, trusting the reader, taking a stance; eleven mandatory scans before any text ships.
 
 ### Install
 
